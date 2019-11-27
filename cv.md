@@ -14,7 +14,7 @@ My name is Lucas Cullen, I am a .Net developer with a mathematical background, w
 
 Recently I have been freelancing and working on my own open source projects.
 
-## WORK EXPERIENCE 
+## Work Experience
 
 ## ConsenSys 
 
