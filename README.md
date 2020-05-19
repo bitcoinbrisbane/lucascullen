@@ -1,4 +1,41 @@
 # lucascullen
 Online CV and website for www.lucascullen.com
 
-Download CV at https://github.com/bitcoinbrisbane/lucascullen/blob/master/assets/Lucas%20Cullen%202020%20Blockchain.pdf
+Download CV at: https://github.com/bitcoinbrisbane/lucascullen/blob/master/assets/Lucas%20Cullen%202020%20Blockchain.pdf
+Bio:
+Online CV: 
+LinkedIn: https://www.linkedin.com/in/lucascullen
+Key Base: https://keybase.io/bitcoinbrisbane
+PGP Key
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: GPGTools - https://gpgtools.org
+
+mQENBFMz/T4BCACx9JgfFyBCjVx0VbZeYDp6YlirrcliPBMuK+M1XZkdQQ8xuk9l
+lxUyD5QSifDnZDZHoyIGVulzWAdFrugZLWx/84B4srDdp73NHleZE7BX9+YV6iVw
+tGwRVMNVJWBC4esdQgaH87TPwqeTdzswGH2/BjI4FWwpMcS/xA2Ot95vp847NIX7
+7nQ7VkLjNhLwURbimY5BQ+usUB9So4EYo/8QTNONeTS199bcUe+46i8zjE+heC7W
+o3MgKrJAk5056L0M17L/ONlrUYlKPAfE4ju8eTK62u/mb8K3vEkmM5e4JEq7C1+P
+Qbu9rxFzp3xfp6ldmppVVNpDboHWPwqS9sm9ABEBAAG0K0x1Y2FzIEN1bGxlbiA8
+bHVjYXNAYml0Y29pbmJyaXNiYW5lLmNvbS5hdT6JAT0EEwEKACcFAlMz/T4CGwMF
+CQeGH4AFCwkIBwMFFQoJCAsFFgIDAQACHgECF4AACgkQiBbfK1QQQJyaNgf/Za6s
+96AiAWZOSA9sDPcFlmWuPFKPyq6HjVddpPP3TYhPhDxDVi9xUWGP9i0mn/D3j3YQ
+VmsPIKzM4gNPRgkvygHnwKHHYgTf1LqQdGRdZ+H9mdILlb5gU79+yqzmpd7s1wN7
+7ahdH89Ejq3kub7wIQBncVot2gQxLsioYlRmDEgNAtiA4gHZ9LSq3uKcN4Q3J/pT
+C4gItQBlrSWlNLY49pMttVSJyzlERd10iDfyU/8hTWtb9vpH7dLqXkDxXtgzy0wK
+rwHV2oVTqgFiHYWlxaeY9G2CEBxNchv52uIIBCFPz5MgNTvTdGCG7Dltvkt+eYPM
+MtJPLG6dKzTA379XT7kBDQRTM/0+AQgAzTbwyXQizIj5tI7UKIzbM7PZS981WpN3
+o2/odxWRaEncSjxnbGt8F74TF91iwX4AdyJiZYwnUGTZ8P5JsYz8aVtu28Flp30m
+QL2yVkL4IllCnG7scUqMAQmmFBjLVuerbRjk6exYg+eZ3LOWhWeP5ZbU1+vbwCQp
+zNdwuNhYF9Tksd02LMyEmiQUO//TGwDRNpjQqHKA6UHMXfp/95c0SNZ52uD62LxI
+6rbhQd2zY6c3dMOka+JOQjlVgM8NEtlem7aJeW0GDpvzVPjwHjud6h5m3E6cdYZm
+bvcRi4cuGKaJcpN6ixHa54MV8N3BQrzBGv9Dx4M9TLKUh6ZEcywJWQARAQABiQEl
+BBgBCgAPBQJTM/0+AhsMBQkHhh+AAAoJEIgW3ytUEECclW4H/2AFFLumoLieaXLM
+/n0lCNwso+gsnqQw2+/y1APAVkRej7y4uv/Tn3fosaTuccO05/8ZaTzygUCZStwl
++9Oc987QHw0M3KvVzIYthACM1URHDr4m7CuBLKn1JzVNydQihVEkPOJk7gGE5fhF
+4T81ES3tIZ4sByVhB4h3ui/9YLcFMYWnjqZZ/G+V2rkZHQrHPb0Vtxyj+jzUundp
+J5amqyblfs6e/jAUy5bRkRc+OfckZ664OhTVeYocxfdzyHN6twZjbYT7IJjwxIBh
+uFHsnhQgHQ2eI8SgXZLlwkcXvlSJZW6Be+6iP6y1+7xbh6PWs4WYNFYnGwylnP6y
+Ce1s2U0=
+=5B88
+-----END PGP PUBLIC KEY BLOCK-----
