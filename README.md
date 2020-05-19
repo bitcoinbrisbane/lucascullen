@@ -1,13 +1,14 @@
 # lucascullen
 Online CV and website for www.lucascullen.com
 
-Download CV at: https://github.com/bitcoinbrisbane/lucascullen/blob/master/assets/Lucas%20Cullen%202020%20Blockchain.pdf
-Bio:
-Online CV: 
-LinkedIn: https://www.linkedin.com/in/lucascullen
-Key Base: https://keybase.io/bitcoinbrisbane
-PGP Key
+Download CV at: https://github.com/bitcoinbrisbane/lucascullen/blob/master/assets/Lucas%20Cullen%202020%20Blockchain.pdf  
+Bio:  
+Online CV:  
+LinkedIn: https://www.linkedin.com/in/lucascullen  
+Key Base: https://keybase.io/bitcoinbrisbane  
+PGP Key  
 
+```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: GPGTools - https://gpgtools.org
 
@@ -39,3 +40,4 @@ uFHsnhQgHQ2eI8SgXZLlwkcXvlSJZW6Be+6iP6y1+7xbh6PWs4WYNFYnGwylnP6y
 Ce1s2U0=
 =5B88
 -----END PGP PUBLIC KEY BLOCK-----
+```
