@@ -1,0 +1,46 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Curriculum Vitae}
+\author{Lucas Cullen}
+\author{lucas@lucascullen.com}
+
+\usepackage{natbib}
+\usepackage{graphicx}
+
+\begin{document}
+
+\maketitle
+
+\section{Abstract}
+My name is Lucas Cullen, I have been a professional software developer for over 20 years. In 2012 I discovered bitcoin and began hosting regular bitcoin meetups since 2013. This passion for bitcoin and blockchain has presented me with some exciting opportunities such as giving evidence at the Senate Enquiry at Parliament House in 2014.
+
+\section{Introduction}
+Recently I have been freelancing and contributing back to the blockchain community through my own open source projects and pull requests to others.
+
+\section{Open Source}
+The following are some of my side project or open source projects I have contributed to or involved in.
+1. DDemonstrate.org: An ethereum / IPFS based platform to allow safe and secure socialisation of demonstrations
+2. Digital Dogs: An ERC721 based project to trace the linage of pedigree dogs on the public Ethereum chain to help prevent the cruelty of animals and hereditary disease
+3. Open Collective: Is a React application that allows donations to open source rojects
+4. Beaker Browser: An open source NodeJS p2p browser
+5. Lbry.io: LBRY is a secure, open, and community-run digital marketplace. Go / C++ / NodeJS / React / Electron
+6. Crypto Horses: An ERC721 horse trading game.
+
+\section{Languages}
+• C#
+• Solidty / Vyper
+• Haskell / F#
+• Java / Scala
+• Go
+• NodeJS / React / React Native / TypeScript
+• Swift
+• Ruby
+• C / C++
+• Python
+
+\section{Work Experience}
+
+\bibliographystyle{plain}
+\bibliography{references}
+\end{document}
