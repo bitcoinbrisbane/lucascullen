@@ -40,6 +40,67 @@ The following are some of my side project or open source projects I have contrib
 • Python
 
 \section{Work Experience}
+\subsection{Freelance projects}
+•Multiple DAO / DeFi and NFT projects, based on Curve, Balancer, UniSwap v1 and v2 
+Qoin: Bartercard’s native ERC20 token using Kalido, AlphaWallet and AWS functions.
+• MinerToken.io: ERC20 based commodity based project to tokenize mining minutes.
+• BeefLedger.io: A token based platform for the province of meat and voting of participants.
+• Gold Silver Standard: Commodities based ERC20 contract on ethereum mainnet.
+• GoldGramCoin: I was engaged to perform a security audit on an ERC20 contract in Manila via security auditing company Corsec.
+• Skrilla: An ERC20 for an e-Sports platform.
+
+\subsection{Firmus Grid : Jan 2020 - Dec 2020}
+Firmus grid is a $100m Bitcoin mining project based in Tasmania, Australia.  Using the rewable energies produced in the region, Firmus grid is able to opperate a profitable data center.  My role was do reverse engineer the bitmain c mining software and allow control of 1000s of bitmain miners a Python / Flask / React app over TCP sockets.
+
+\subsection{Geora Pty Ltd Snr Blockchain Developer : August 2019 - Jan 2020}
+Geora is the protocol layer behind supply chain blockchain projects, such as AgriDigital. My duties including developing solidly based contracts and AWS / GraphQL API, as well as building client facing apps on React / Typescript consuming our APIs.
+
+\subsection{TravelbyBit: Snr Blockchain Developer : February 2019 - August 2019 (6 month contract)}
+TravelbyBit is a Brisbane based startup promoting crypto currency adoption using NodeJs / Express, Handlebars templating engine, Mocha, AWS and Heruko
+
+\subsection{ConsenSys: Snr Blockchain Developer : August 2017 - September 2018}
+ConsenSys is a remote first, distributed venture production studio using the ethereum blockchain. I was hired as one of the first APAC employees after winning the hackathon in New York in 2017, to role out capabilities in the region.
+• PegaSys spoke: Re-write of the ethereum client in Java. Contributed to JP Morgan’s Quorum product in Go and Haskell.
+• Virtue Poker spoke: Distributed poker application using smart contracts written in Solidity, React-Redux and Electrum.
+• Solutions spoke: Delivered a banking solution for the Philippines Union Bank and other regional banks called Project i2i, using Solidity, TypeScript and hosted on Microsoft Azure using their HSM key signing.
+
+\subsection{Avanade - Accenture: March 2015 - August 2017}
+Created in April 2000 by two industry giants – Accenture and Microsoft – Avanade had one goal: deliver innovative services and solutions to enterprises world wide using the Microsoft platform. My role as a consultant was to help deliver on enterprise solutions:
+• Team lead for one of the deliver teams on the Australian Tax Office new tax portal. The build was .Net, TypeScript and KnockOut JS running on Microsoft Azure. 
+• Lead developer on project Ubin in Singapore with the Singapore Monetary Authority and JP Morgan on the distributed ledger project using Solidity and Quorom on Microsoft Azure
+• Was invited to speak at “Tech Time” in Seattle, US on blockchain technologies on Microsoft Azure. 
+
+\subsubsection{Site Core / MS Dynamics - RSL Queensland (Contract): August 2014 - Feb 2015 }
+The Returned and Services League Australia (RSL) is a support organization for men and women who have served or are serving in the Defense Force.
+I was engaged to help the RSL with their lotteries website, built in Site Core CMS, ASP.Net MVC and using MS Dynamics CRM as a backend.
+
+\subsubsection{SharePoint Developer -Zetta 1 / Department of Education (Contract) : August 2013 to July 2014}
+I decided to begin contracting at DETE via a consultant Zetta 1 for a 12 month SharePoint project. The project ran well and was delivered in 4 sprints. I worked closely with the Stakeholders and BA’s.
+
+\subsubsection{Team Leader BizTalk Salesforce Integration – Bank of Queensland, Brisbane : January 2011 to August 2013}
+I was offered a position as a .Net SharePoint developer and help Bank of Queensland with their software engineering processes, story card writing, source control management, work item customization and branching strategies. I became the de facto TFS administrator and merge master. 
+I was promoted to the Team Leader for a BizTalk – Salesforce integration piece to lead a team and be scrum master of 10 developers and contractors. The project was a vital part of Bank of Queensland’s ongoing technology strategy to implement an Enterprise Service Bus and to decouple the banks systems.
+As scrum master, I was responsible for designing the software development life cycle and sprint planning, and ensured working software was delivered at every sprint. I was acting manager for the team during periods of change.
+
+\subsubsection{.Net Analyst Developer -TSA Software, Brisbane : December 2008 to January 2011}
+This medium sized software house has been looking to expand their products by offering Web Applications to their customers. Most of these products are reporting applications, leveraging off the core products database and Cube.
+My duties involved writing enterprise Asp.net applications for clients such as Crown Casino, University of Tasmania and QUT. I was heavily involved in the design, construction, unit testing, integration testing and the deployment.
+
+\subsubsection{Analyst Developer - Concep Global, London, UK : April 2007 to Sept 2008}
+My role was a client facing analyst developer role to develop bespoke solutions for clients. The solutions typically evolved writing windows services that integrated third party CRM systems with an ASP email marketing solution called “Campaigner”. ASP.net front end web applications control panels where created for clients to modify database settings. 
+
+\subsubsection{Applications Developer & Database Admin – Photobox.co.uk London, UK : Software Developer Oct 2003 to April 2007}
+My duties included creating and supporting mission critical bespoke applications in vb6, vb.net and C#.net to control order flow of a large online retailer that operates in a 24/7 environment.
+In the 3 years of my employment, the company has grown 800%, and this growth has created stresses on the application and the underlying database. It was my responsibility to up scale and redesign these applications to vb.net while maintaining the original application.
+I was also responsible for performance & reliability of the large and volatile live database, averaging 2 million order item rows per month, and used by over 100 production and support staff.
+To minimise database load I introduced message queuing, “queue” style tables to reduce table scans on the main customer order table. “Active” rows where decomposed into smaller tables and purged after use. Windows message queuing has been introduced as well, to pass serialized objects between dot net applications. 
+
+\section{Education}
+Currently Studying (4th year) a Bachelor of Mathematics at Queensland University of Technology part time. I also have completed a number of Microsoft certified courses.
+MS Certifications: Microsoft Certified Professional Developer
+• 70-536: Microsoft .NET Framework - Application Development Foundation
+• 70-528: Microsoft .NET Framework 2.0 - Web-based Client Development
+• 70-547: Designing and Developing Web-Based Applications by Using the Microsoft .NET Framework
 
 \bibliographystyle{plain}
 \bibliography{references}
