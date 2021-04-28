@@ -3,7 +3,7 @@
 
 \title{Curriculum Vitae}
 \author{Lucas Cullen}
-\author{lucas@lucascullen.com}
+\author{lucas@lucascullen.com @bitcoinbrisbane}
 
 \usepackage{natbib}
 \usepackage{graphicx}
@@ -85,7 +85,9 @@ The Returned and Services League Australia (RSL) is a support organization for m
 I decided to begin contracting at DETE via a consultant Zetta 1 for a 12 month SharePoint project. The project ran well and was delivered in 4 sprints. I worked closely with the Stakeholders and BA’s.
 
 \subsubsection{Team Leader BizTalk Salesforce Integration – Bank of Queensland, Brisbane : January 2011 to August 2013}
-I was offered a position as a .Net SharePoint developer and help Bank of Queensland with their software engineering processes, story card writing, source control management, work item customization and branching strategies. I became the de facto TFS administrator and merge master.  I was promoted to the Team Leader for a BizTalk – Salesforce integration piece to lead a team and be scrum master of 10 developers and contractors. The project was a vital part of Bank of Queensland’s ongoing technology strategy to implement an Enterprise Service Bus and to decouple the banks systems. As scrum master, I was responsible for designing the software development life cycle and sprint planning, and ensured working software was delivered at every sprint. I was acting manager for the team during periods of change.
+I was offered a position as a .Net SharePoint developer and help Bank of Queensland with their software engineering processes, story card writing, source control management, work item customization and branching strategies. 
+
+I was promoted to the Team Leader for a BizTalk – Salesforce integration piece to lead a team and be scrum master of 10 developers and contractors. The project was a vital part of Bank of Queensland’s ongoing technology strategy to implement an Enterprise Service Bus and to decouple the banks systems. As scrum master, I was responsible for designing the software development life cycle and sprint planning, and ensured working software was delivered at every sprint. I was acting manager for the team during periods of change.
 
 \subsubsection{.Net Analyst Developer -TSA Software, Brisbane : December 2008 to January 2011}
 This medium sized software house has been looking to expand their products by offering Web Applications to their customers. Most of these products are reporting applications, leveraging off the core products database and Cube.
@@ -108,6 +110,14 @@ MS Certifications: Microsoft Certified Professional Developer
 \item 70-547: Designing and Developing Web-Based Applications by Using the Microsoft .NET Framework
 \end{itemize}
 
-\bibliographystyle{plain}
-\bibliography{references}
+\begin{thebibliography}{9}
+\bibitem{latexcompanion} 
+Michel Goossens, Frank Mittelbach, and Alexander Samarin. 
+\textit{The \LaTeX\ Companion}. 
+Addison-Wesley, Reading, Massachusetts, 1993.
+\bibitem{pgp}
+https://keys.openpgp.org/vks/v1/by-fingerprint/
+9214979F53108E6560E621BCEBBBB03B58C89CDC
+\end{thebibliography}
+
 \end{document}
