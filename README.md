@@ -1,7 +1,7 @@
 # lucascullen
 Online CV and website for www.lucascullen.com
 
-* Download CV at: https://github.com/bitcoinbrisbane/lucascullen/blob/master/assets/Lucas%20Cullen%202020%20Blockchain.pdf  
+* Download CV at: https://github.com/bitcoinbrisbane/lucascullen/blob/master/CV.pdf  
 * LinkedIn: https://www.linkedin.com/in/lucascullen  
 * Key Base: https://keybase.io/bitcoinbrisbane  
 * PGP Key: https://keys.openpgp.org/vks/v1/by-fingerprint/9214979F53108E6560E621BCEBBBB03B58C89CDC
