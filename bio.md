@@ -7,3 +7,7 @@ As a former Accenture/Avanade & ConsenSys employee, he has worked on a number of
 Lucas as also made contributions Bitcoin Core and other Ethereum infrastrture projects, such as Nethermind, Nethereum, Vyper compiler and EthersJS.
 
 He founded DLTx labs, a Brisbane Web3 Venture stuido in 2018 who take blockchain ideas to production, but now works on DeFi protocols like Handle.fi, Spool.fi and many more.
+
+linkedin.com/in/lucascullen
+x.com/bitcoinbrisbane
+pgp pub key https://keys.openpgp.org/vks/v1/by-fingerprint/9214979F53108E6560E621BCEBBBB03B58C89CDC
