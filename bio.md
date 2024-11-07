@@ -8,6 +8,7 @@ Lucas has made contributions Bitcoin Core and other Ethereum infrastrture projec
 
 He founded DLTx labs, a Brisbane Web3 Venture stuido in 2018 who take blockchain ideas to production, but now works on DeFi protocols like Handle.fi, Spool.fi and many more.
 
-linkedin.com/in/lucascullen
-x.com/bitcoinbrisbane
-pgp pub key https://keys.openpgp.org/vks/v1/by-fingerprint/9214979F53108E6560E621BCEBBBB03B58C89CDC
+* linkedin.com/in/lucascullen
+* x.com/bitcoinbrisbane
+* pgp pub key https://keys.openpgp.org/vks/v1/by-fingerprint/9214979F53108E6560E621BCEBBBB03B58C89CDC
+* headshot https://github.com/bitcoinbrisbane/lucascullen/blob/master/Lucas-Cullen.jpg
